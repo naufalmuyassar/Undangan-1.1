@@ -457,12 +457,12 @@ body.preloader-site {
 }
 
 
-.btn-whatsapp:hover {
+.btn-whatsapp1:hover {
   color: white;
-  background-color: #59a543;
+  background-color: #2d489c;
   font-size: 1.2rem;
   border-radius: 10px;
-  border: 2px solid #59a543;
+  border: 2px solid #2d489c;
   width:  210px;
   height: 65px;
   align-items: center;
@@ -470,21 +470,70 @@ body.preloader-site {
 }
 
 
-.btn-whatsapp {
-  background-color: #6cc751;
+.btn-whatsapp1 {
+  background-color: #2d489c;
   width:  210px;
   height: 65px;
   color: white;
   font-size: 1.2rem;
   border-radius: 10px;  
-  border-left: 1px solid #6cc751;
-  border-right: 1px solid #6cc751;
-  border-top: 1px solid #6cc751;
-  border-bottom: 1px solid #6cc751;
+  border-left: 1px solid #2d489c;
+  border-right: 1px solid #2d489c;
+  border-top: 1px solid #2d489c;
+  border-bottom: 1px solid #2d489c;
   align-items: center;
   margin: 1rem;
 
 }
+
+
+.btn-whatsapp2:hover {
+  color: white;
+  background-color: #f84434;
+  font-size: 1.2rem;
+  border-radius: 10px;
+  border: 2px solid #f84434;
+  width:  210px;
+  height: 65px;
+  align-items: center;
+  margin: 1rem;
+}
+
+
+.btn-whatsapp2 {
+  background-color: #f84434;
+  width:  210px;
+  height: 65px;
+  color: white;
+  font-size: 1.2rem;
+  border-radius: 10px;  
+  border-left: 1px solid #f84434;
+  border-right: 1px solid #f84434;
+  border-top: 1px solid #f84434;
+  border-bottom: 1px solid #f84434;
+  align-items: center;
+  margin: 1rem;
+
+}
+
+
+
+.IMG-BCA:hover {
+  font-size: 1.2rem;
+  width:  210px;
+  height: 65px;
+  
+}
+
+
+.IMG-BCA {
+  width:  210px;
+  height: 65px;
+  font-size: 1.2rem;
+
+}
+
+
 
 
 .btn-cta:hover {
